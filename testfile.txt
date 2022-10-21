@@ -1,1 +1,1 @@
-Hi..This is test. This content was added for Hackathon.
+Hi..This is test. This content was added for Hackathon. Disabled the azure function.
